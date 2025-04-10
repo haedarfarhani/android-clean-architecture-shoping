@@ -1,5 +1,6 @@
 package com.heydar.clean.domain.repository
 
+import androidx.paging.PagingData
 import com.heydar.clean.domain.entities.UserEntity
 import kotlinx.coroutines.flow.Flow
 
